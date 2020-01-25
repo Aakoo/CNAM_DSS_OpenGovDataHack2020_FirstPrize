@@ -1,0 +1,6521 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.163474445891756,36.848224 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2091,
+    "LOC_DES":"EL MENZAH 6",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8713665,37.2732415 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":7000,
+    "LOC_DES":"BIZERTE",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"BIZERTE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.163474445891756,36.848224 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2091,
+    "LOC_DES":"EL MENZAH 6",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"TUNIS 2",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.639360056964815,36.71010845 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":9070,
+    "LOC_DES":"MEDJEZ EL BAB",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":" BARDO",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.858566032346188,37.1076327 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":7050,
+    "LOC_DES":"MENZEL BOURGUIBA",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"MENZEL BOURGUIBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8713665,37.2732415 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":7000,
+    "LOC_DES":"BIZERTE",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"BIZERTE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.132191086678448,36.8134113 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2000,
+    "LOC_DES":"BARDO",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":" BARDO",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2388419,36.8350921 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1053,
+    "LOC_DES":"LES BERGES DU LAC",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.287025364730832,32.981998700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4100,
+    "LOC_DES":"MEDENINE",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"MEDENINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.67071969788044,36.4823676 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8000,
+    "LOC_DES":"NABEUL",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2813536,36.8445955 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2045,
+    "LOC_DES":"CITE M'HIRI",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.703290964584628,33.33877015 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":4200,
+    "LOC_DES":"KEBILI",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"KEBILI",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.177835473875374,36.82158555 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1002,
+    "LOC_DES":"TUNIS BELVEDERE",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.329798368342402,36.8807735 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2078,
+    "LOC_DES":"MARSA SAF SAF",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.15043,36.86184 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2037,
+    "LOC_DES":"EL MENZAH 7 - ENNASR II",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.177835473875374,36.82158555 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1002,
+    "LOC_DES":"TUNIS BELVEDERE",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.300647432025508,36.9001395 ]
+    },
+    "properties": {
+    "TYP_DES":"MINISTERE DE L'INTERIEUR",
+    "LOC_COD":2070,
+    "LOC_DES":"LA MARSA",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.67071969788044,36.4823676 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8000,
+    "LOC_DES":"NABEUL",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.199071820738679,36.73075 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2074,
+    "LOC_DES":"EL MOUROUJ I",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"LA MARSA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.357712875636699,35.9715323 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":6100,
+    "LOC_DES":"SILIANA",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"SILIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.74052,34.7657 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3000,
+    "LOC_DES":"SFAX B DIWAN",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2388419,36.8350921 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1053,
+    "LOC_DES":"LES BERGES DU LAC",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.190973,36.859939 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2080,
+    "LOC_DES":"ARIANA MEDINA",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.177835473875374,36.82158555 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1002,
+    "LOC_DES":"TUNIS BELVEDERE",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 1",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1780601,36.8287599 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1082,
+    "LOC_DES":"CITE MAHRAJENE",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.190973,36.859939 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2080,
+    "LOC_DES":"ARIANA MEDINA",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.177835473875374,36.82158555 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1002,
+    "LOC_DES":"TUNIS BELVEDERE",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 2",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"SFAX NORD",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"TUNIS 1",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":" BARDO",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 1",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.190973,36.859939 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2080,
+    "LOC_DES":"ARIANA MEDINA",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.307509692598012,36.86373635 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL DE GROUPE",
+    "LOC_COD":2046,
+    "LOC_DES":"SIDI DAOUD",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.337787214723926,36.7188 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2050,
+    "LOC_DES":"HAMMAM-LIF",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"HAMMAM-LIF",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.67071969788044,36.4823676 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8000,
+    "LOC_DES":"NABEUL",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.158383788215756,36.83561325 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL DE GROUPE",
+    "LOC_COD":1013,
+    "LOC_DES":"EL MENZAH 9",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.111824071052634,33.913484999999994 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":2200,
+    "LOC_DES":"TOZEUR",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"TOZEUR",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2181956500865,36.83690525 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL DE GROUPE",
+    "LOC_COD":1003,
+    "LOC_DES":"CITE EL KHADRA",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1780601,36.8287599 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1082,
+    "LOC_DES":"CITE MAHRAJENE",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.15043,36.86184 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2037,
+    "LOC_DES":"EL MENZAH 7 - ENNASR II",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.798839679614954,35.739872399999996 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":5000,
+    "LOC_DES":"MONASTIR",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"MONASTIR",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2388419,36.8350921 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1053,
+    "LOC_DES":"LES BERGES DU LAC",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"TUNIS 4",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.132191086678448,36.8134113 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2000,
+    "LOC_DES":"BARDO",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":" BARDO",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.752646965460535,36.67797255 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8100,
+    "LOC_DES":"JENDOUBA",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"JENDOUBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.67071969788044,36.4823676 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8000,
+    "LOC_DES":"NABEUL",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8713665,37.2732415 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":7000,
+    "LOC_DES":"BIZERTE",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"BIZERTE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.056340121349354,36.8284856 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8090,
+    "LOC_DES":"KELIBIA OUEST",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"MENZEL TEMIME",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.177835473875374,36.82158555 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL DE GROUPE",
+    "LOC_COD":1002,
+    "LOC_DES":"TUNIS BELVEDERE",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 2",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.132191086678448,36.8134113 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2000,
+    "LOC_DES":"BARDO",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":" BARDO",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.74052,34.7657 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3000,
+    "LOC_DES":"SFAX B DIWAN",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.294355505265166,36.8479991 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2015,
+    "LOC_DES":"LE KRAM",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"DIRECTION GENERALE DES PRISONS ET DE LA REEDUCATION",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.266673071428569,36.76364 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL DE GROUPE",
+    "LOC_COD":2040,
+    "LOC_DES":"RADèS VILLE",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"BEN AROUS",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"TUNIS 1",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.50786197336288,36.4098156 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8050,
+    "LOC_DES":"HAMMAMET",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"HAMMAMET",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.67071969788044,36.4823676 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8000,
+    "LOC_DES":"NABEUL",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.056340121349354,36.8284856 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8090,
+    "LOC_DES":"KELIBIA OUEST",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"MENZEL TEMIME",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.50786197336288,36.4098156 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8050,
+    "LOC_DES":"HAMMAMET",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.300647432025508,36.9001395 ]
+    },
+    "properties": {
+    "TYP_DES":"MINISTERE DE L'INTERIEUR",
+    "LOC_COD":2070,
+    "LOC_DES":"LA MARSA",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.79806834859246,36.6055128 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8070,
+    "LOC_DES":"KORBA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.132191086678448,36.8134113 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2000,
+    "LOC_DES":"BARDO",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":" BARDO",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1863745,36.8170312 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1073,
+    "LOC_DES":"MONTPLAISIR",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.836463499999997,35.16915170000001 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1200,
+    "LOC_DES":"KASSERINE",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"KASSERINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1814915,36.7270373 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":9000,
+    "LOC_DES":"BEJà VILLE",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"BEJA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.74052,34.7657 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3003,
+    "LOC_DES":"SFAX G C",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SFAX NORD",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.619054202882047,35.84660934999999 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4051,
+    "LOC_DES":"SOUSSE KHEZAMA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.190973,36.859939 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2080,
+    "LOC_DES":"ARIANA MEDINA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1339881,36.8229323 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2042,
+    "LOC_DES":"CITE ETTAHRIR",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"ETTADHAMEN",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.74052,34.7657 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3000,
+    "LOC_DES":"SFAX B DIWAN",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.177835473875374,36.82158555 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1002,
+    "LOC_DES":"TUNIS BELVEDERE",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"TUNIS 1",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SAKIET EZZIT",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.4503961,32.9315755 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3200,
+    "LOC_DES":"TATAOUINE MEDINA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"TATAOUINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8713665,37.2732415 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":7000,
+    "LOC_DES":"BIZERTE",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"BIZERTE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.867658278173936,33.8506079 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4180,
+    "LOC_DES":"DJERBA HOUMET SOUK",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"JERBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0971389,33.8833922 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":6000,
+    "LOC_DES":"GABES VILLE",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"GABES",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.300647432025508,36.9001395 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2070,
+    "LOC_DES":"LA MARSA",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.15043,36.86184 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2037,
+    "LOC_DES":"EL MENZAH 7 - ENNASR II",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1780601,36.8287599 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1082,
+    "LOC_DES":"CITE MAHRAJENE",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"TUNIS 2",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.177835473875374,36.82158555 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1002,
+    "LOC_DES":"TUNIS BELVEDERE",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"TUNIS 2",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.50786197336288,36.4098156 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8050,
+    "LOC_DES":"HAMMAMET",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.224640937931033,36.757735 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2013,
+    "LOC_DES":"BEN AROUS EST",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"BEN AROUS",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL DE GROUPE",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"SFAX NORD",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL DE GROUPE",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"SFAX NORD",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.177835473875374,36.82158555 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1002,
+    "LOC_DES":"TUNIS BELVEDERE",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.798839679614954,35.739872399999996 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":5000,
+    "LOC_DES":"MONASTIR",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"MONASTIR",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2986387518546,36.7476415 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2034,
+    "LOC_DES":"EZZAHRA",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"HAMMAM-LIF",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.74052,34.7657 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3002,
+    "LOC_DES":"SFAX P C",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":" MAHRES",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 1",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.132191086678448,36.8134113 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2000,
+    "LOC_DES":"BARDO",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":" BARDO",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2181956500865,36.83690525 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1003,
+    "LOC_DES":"CITE EL KHADRA",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.300647432025508,36.9001395 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":2070,
+    "LOC_DES":"LA MARSA",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.085763187193221,36.8115973 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2010,
+    "LOC_DES":"MANOUBA",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"MANOUBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.337787214723926,36.7188 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2050,
+    "LOC_DES":"HAMMAM-LIF",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.526359847182345,34.881181 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":9100,
+    "LOC_DES":"SIDI BOUZID",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"SIDI BOUZID",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.224640937931033,36.757735 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2013,
+    "LOC_DES":"BEN AROUS EST",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"BEN AROUS",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.337787214723926,36.7188 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2050,
+    "LOC_DES":"HAMMAM-LIF",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"HAMMAM-LIF",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.867658278173936,33.8506079 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4180,
+    "LOC_DES":"DJERBA HOUMET SOUK",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"JERBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.619054202882047,35.84660934999999 ]
+    },
+    "properties": {
+    "TYP_DES":"CLINIQUE MULTIDISCIPLINAIRE",
+    "LOC_COD":4051,
+    "LOC_DES":"SOUSSE KHEZAMA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2181956500865,36.83690525 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1003,
+    "LOC_DES":"CITE EL KHADRA",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SFAX NORD",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.867658278173936,33.8506079 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4180,
+    "LOC_DES":"DJERBA HOUMET SOUK",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"JERBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.798839679614954,35.739872399999996 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":5000,
+    "LOC_DES":"MONASTIR",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"MONASTIR",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.798839679614954,35.739872399999996 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":5000,
+    "LOC_DES":"MONASTIR",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"MONASTIR",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SFAX NORD",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.357712875636699,35.9715323 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":6100,
+    "LOC_DES":"SILIANA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.962243331900263,35.48778925000001 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":5100,
+    "LOC_DES":"MAHDIA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"MAHDIA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1780601,36.8287599 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1082,
+    "LOC_DES":"CITE MAHRAJENE",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.190973,36.859939 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2080,
+    "LOC_DES":"ARIANA MEDINA",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.763015322898038,34.783770000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3031,
+    "LOC_DES":"MERKEZ BOUASSIDA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SAKIET EZZIT",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.190973,36.859939 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2080,
+    "LOC_DES":"ARIANA MEDINA",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.190973,36.859939 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2080,
+    "LOC_DES":"ARIANA MEDINA",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1780601,36.8287599 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1082,
+    "LOC_DES":"CITE MAHRAJENE",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.294355505265166,36.8479991 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2015,
+    "LOC_DES":"LE KRAM",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.190973,36.859939 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2080,
+    "LOC_DES":"ARIANA MEDINA",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1780601,36.8287599 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1082,
+    "LOC_DES":"CITE MAHRAJENE",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.300647432025508,36.9001395 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2070,
+    "LOC_DES":"LA MARSA",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1863745,36.8170312 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1073,
+    "LOC_DES":"MONTPLAISIR",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.199071820738679,36.73075 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2074,
+    "LOC_DES":"EL MOUROUJ I",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"BEN AROUS",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 2",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.15043,36.86184 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2037,
+    "LOC_DES":"EL MENZAH 7 - ENNASR II",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0984263,35.6778528 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3100,
+    "LOC_DES":"KAIROUAN",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"KAIROUAN",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL DE GROUPE",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.300647432025508,36.9001395 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2070,
+    "LOC_DES":"LA MARSA",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"GREMDA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SFAX NORD",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.934309923752732,33.46624765 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4170,
+    "LOC_DES":"ZARZIS",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"ZARZIS",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.619054202882047,35.84660934999999 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4051,
+    "LOC_DES":"SOUSSE KHEZAMA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.619054202882047,35.84660934999999 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL DE GROUPE",
+    "LOC_COD":4051,
+    "LOC_DES":"SOUSSE KHEZAMA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.287025364730832,32.981998700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4100,
+    "LOC_DES":"MEDENINE",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"MEDENINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8713665,37.2732415 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":7000,
+    "LOC_DES":"BIZERTE",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"BIZERTE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.798839679614954,35.739872399999996 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":5000,
+    "LOC_DES":"MONASTIR",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"MONASTIR",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2181956500865,36.83690525 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1003,
+    "LOC_DES":"CITE EL KHADRA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.798839679614954,35.739872399999996 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":5000,
+    "LOC_DES":"MONASTIR",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.10424427501026,35.68154185 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3140,
+    "LOC_DES":"KAIROUAN OKBA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"KAIROUAN",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8713665,37.2732415 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":7000,
+    "LOC_DES":"BIZERTE",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"BIZERTE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2388419,36.8350921 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1053,
+    "LOC_DES":"LES BERGES DU LAC",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"TUNIS 1",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2388419,36.8350921 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1053,
+    "LOC_DES":"LES BERGES DU LAC",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7369431,34.7399068 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":3051,
+    "LOC_DES":"MERKEZ EL ALIA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.752646965460535,36.67797255 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8100,
+    "LOC_DES":"JENDOUBA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"JENDOUBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8713665,37.2732415 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":7000,
+    "LOC_DES":"BIZERTE",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"BIZERTE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.752646965460535,36.67797255 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8100,
+    "LOC_DES":"JENDOUBA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"JENDOUBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.056340121349354,36.8284856 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8090,
+    "LOC_DES":"KELIBIA OUEST",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"MENZEL TEMIME",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.6031704,35.8544078 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4011,
+    "LOC_DES":"HAMMAM SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"HAMMAM SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1814915,36.7270373 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":9000,
+    "LOC_DES":"BEJà VILLE",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"BEJA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0984263,35.6778528 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3100,
+    "LOC_DES":"KAIROUAN",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"KAIROUAN",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.752646965460535,36.67797255 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8100,
+    "LOC_DES":"JENDOUBA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"JENDOUBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.867658278173936,33.8506079 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4180,
+    "LOC_DES":"DJERBA HOUMET SOUK",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"JERBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.6031704,35.8544078 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4011,
+    "LOC_DES":"HAMMAM SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"HAMMAM SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0971389,33.8833922 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":6000,
+    "LOC_DES":"GABES VILLE",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"GABES",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7843647,34.4224429 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2100,
+    "LOC_DES":"GAFSA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"GAFSA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.798839679614954,35.739872399999996 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":5000,
+    "LOC_DES":"MONASTIR",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"MONASTIR",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.778960000000001,34.42094 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2143,
+    "LOC_DES":"DOUALY GAFSA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"GAFSA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SFAX NORD",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.132191086678448,36.8134113 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2000,
+    "LOC_DES":"BARDO",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":" BARDO",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0984263,35.6778528 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3100,
+    "LOC_DES":"KAIROUAN",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"KAIROUAN",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7843647,34.4224429 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2100,
+    "LOC_DES":"GAFSA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"GAFSA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.287025364730832,32.981998700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4100,
+    "LOC_DES":"MEDENINE",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"MEDENINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0971389,33.8833922 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":6000,
+    "LOC_DES":"GABES VILLE",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7843647,34.4224429 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2100,
+    "LOC_DES":"GAFSA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"GAFSA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.724938087611969,36.03576425 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":7100,
+    "LOC_DES":"LE KEF",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"LE KEF",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0984263,35.6778528 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3100,
+    "LOC_DES":"KAIROUAN",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"KAIROUAN",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.0272231,35.5204407 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":5111,
+    "LOC_DES":"MAHDIA HIBOUN",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"MAHDIA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.167729040499928,36.8050179 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":1006,
+    "LOC_DES":"TUNIS BAB SOUIKA",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.867658278173936,33.8506079 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":4180,
+    "LOC_DES":"DJERBA HOUMET SOUK",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"JERBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1858133,36.791088 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":1007,
+    "LOC_DES":"TUNIS JEBBARI",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8713665,37.2732415 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":7000,
+    "LOC_DES":"BIZERTE",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"BIZERTE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.282397329362514,36.8342214 ]
+    },
+    "properties": {
+    "TYP_DES":"Office de la Marine Marchande et des Ports",
+    "LOC_COD":2060,
+    "LOC_DES":"LA GOULETTE",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.177835473875374,36.82158555 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1002,
+    "LOC_DES":"TUNIS BELVEDERE",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.74052,34.7657 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3000,
+    "LOC_DES":"SFAX B DIWAN",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.231307667481836,36.88108105 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2036,
+    "LOC_DES":"LA SOUKRA",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.199071820738679,36.73075 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2074,
+    "LOC_DES":"EL MOUROUJ I",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"BEN AROUS",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.15043,36.86184 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2037,
+    "LOC_DES":"EL MENZAH 7 - ENNASR II",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1825653,36.8793846 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2083,
+    "LOC_DES":"LA GAZELLE",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.74052,34.7657 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3000,
+    "LOC_DES":"SFAX B DIWAN",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.74052,34.7657 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3000,
+    "LOC_DES":"SFAX B DIWAN",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.177835473875374,36.82158555 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1002,
+    "LOC_DES":"TUNIS BELVEDERE",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 2",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.798839679614954,35.739872399999996 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":5000,
+    "LOC_DES":"MONASTIR",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"MONASTIR",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.132191086678448,36.8134113 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2000,
+    "LOC_DES":"BARDO",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":" BARDO",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.10845064923578,36.78351015 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2051,
+    "LOC_DES":"EZZAHROUNI",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":" BARDO",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1858133,36.791088 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":1007,
+    "LOC_DES":"TUNIS JEBBARI",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":" BARDO",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.88900008525265,36.80650045 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL DE GROUPE",
+    "LOC_COD":8080,
+    "LOC_DES":"MENZEL TEMIME",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"MENZEL TEMIME",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.67071969788044,36.4823676 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8000,
+    "LOC_DES":"NABEUL",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.934309923752732,33.46624765 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4170,
+    "LOC_DES":"ZARZIS",
+    "ANNEE_ADHESION2":2010,
+    "BUR_INT":"ZARZIS",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0971389,33.8833922 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":6000,
+    "LOC_DES":"GABES VILLE",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"GABES",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.085763187193221,36.8115973 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2010,
+    "LOC_DES":"MANOUBA",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"MANOUBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0971389,33.8833922 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":6000,
+    "LOC_DES":"GABES VILLE",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"GABES",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL DE GROUPE",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":" BARDO",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2813536,36.8445955 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2045,
+    "LOC_DES":"CITE M'HIRI",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.74052,34.7657 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":3000,
+    "LOC_DES":"SFAX B DIWAN",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.763015322898038,34.783770000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3031,
+    "LOC_DES":"MERKEZ BOUASSIDA",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"SFAX NORD",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1695965,36.794479 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":1008,
+    "LOC_DES":"TUNIS BAB MENARA",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"TUNIS 1",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.126035270749998,33.87044555 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":6014,
+    "LOC_DES":"MTORRECH",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"GABES",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.163474445891756,36.848224 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2091,
+    "LOC_DES":"EL MENZAH 6",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8713665,37.2732415 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":7000,
+    "LOC_DES":"BIZERTE",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"BIZERTE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.238620347317074,36.77179995 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2033,
+    "LOC_DES":"MEGRINE",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"BEN AROUS",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.867658278173936,33.8506079 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4180,
+    "LOC_DES":"DJERBA HOUMET SOUK",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"JERBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.74052,34.7657 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3003,
+    "LOC_DES":"SFAX G C",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.74052,34.7657 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3000,
+    "LOC_DES":"SFAX B DIWAN",
+    "ANNEE_ADHESION2":2008,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.177835473875374,36.82158555 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1002,
+    "LOC_DES":"TUNIS BELVEDERE",
+    "ANNEE_ADHESION2":2009,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"TUNIS 1",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.67071969788044,36.4823676 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8000,
+    "LOC_DES":"NABEUL",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1780601,36.8287599 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1082,
+    "LOC_DES":"CITE MAHRAJENE",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"TUNIS 2",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"SFAX NORD",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.60068,35.8355 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4054,
+    "LOC_DES":"SEHLOUL",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2388419,36.8350921 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1053,
+    "LOC_DES":"LES BERGES DU LAC",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.199071820738679,36.73075 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2074,
+    "LOC_DES":"EL MOUROUJ I",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"BEN AROUS",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0984263,35.6778528 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3100,
+    "LOC_DES":"KAIROUAN",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"KAIROUAN",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.337787214723926,36.7188 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2050,
+    "LOC_DES":"HAMMAM-LIF",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"HAMMAM-LIF",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"GREMDA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.201979784444637,36.41171955 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1100,
+    "LOC_DES":"ZAGHOUAN",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"LA MARSA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.93526609198599,33.7536409 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4116,
+    "LOC_DES":"DJERBA MIDOUN",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"JERBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.67071969788044,36.4823676 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":8000,
+    "LOC_DES":"NABEUL",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.190973,36.859939 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2080,
+    "LOC_DES":"ARIANA MEDINA",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.79806834859246,36.6055128 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8070,
+    "LOC_DES":"KORBA",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.798839679614954,35.739872399999996 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":5000,
+    "LOC_DES":"MONASTIR",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"MONASTIR",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.163474445891756,36.848224 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2091,
+    "LOC_DES":"EL MENZAH 6",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"GREMDA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.462868141095194,36.59324535 ]
+    },
+    "properties": {
+    "TYP_DES":"CENTRE SPECIALISE",
+    "LOC_COD":8030,
+    "LOC_DES":"GROMBALIA",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"SOLIMAN",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.50786197336288,36.4098156 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8050,
+    "LOC_DES":"HAMMAMET",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.329798368342402,36.8807735 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL DE GROUPE",
+    "LOC_COD":2078,
+    "LOC_DES":"MARSA SAF SAF",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.163474445891756,36.848224 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2091,
+    "LOC_DES":"EL MENZAH 6",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.190973,36.859939 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":2080,
+    "LOC_DES":"ARIANA MEDINA",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.724938087611969,36.03576425 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":7100,
+    "LOC_DES":"LE KEF",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"LE KEF",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"SFAX NORD",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1780601,36.8287599 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1082,
+    "LOC_DES":"CITE MAHRAJENE",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8713665,37.2732415 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":7000,
+    "LOC_DES":"BIZERTE",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"BIZERTE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8713665,37.2732415 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":7000,
+    "LOC_DES":"BIZERTE",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"BIZERTE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.15043,36.86184 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2037,
+    "LOC_DES":"EL MENZAH 7 - ENNASR II",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.765915303571427,34.805274999999995 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3021,
+    "LOC_DES":"SAKIET EZZIT",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"SAKIET EZZIT",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.190973,36.859939 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":2080,
+    "LOC_DES":"ARIANA MEDINA",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.798839679614954,35.739872399999996 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":5000,
+    "LOC_DES":"MONASTIR",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"MONASTIR",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.300647432025508,36.9001395 ]
+    },
+    "properties": {
+    "TYP_DES":"MINISTERE DE L'INTERIEUR",
+    "LOC_COD":2070,
+    "LOC_DES":"LA MARSA",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.962243331900263,35.48778925000001 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":5100,
+    "LOC_DES":"MAHDIA",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"MAHDIA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.24098,34.465540000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2092,
+    "LOC_DES":" EL MANAR (I, II, III)",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.15043,36.86184 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2037,
+    "LOC_DES":"EL MENZAH 7 - ENNASR II",
+    "ANNEE_ADHESION2":2012,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.74052,34.7657 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3003,
+    "LOC_DES":"SFAX G C",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"SAKIET EZZIT",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.190973,36.859939 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":2080,
+    "LOC_DES":"ARIANA MEDINA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.300647432025508,36.9001395 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL DE GROUPE",
+    "LOC_COD":2070,
+    "LOC_DES":"LA MARSA",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"LA MARSA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.867658278173936,33.8506079 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4180,
+    "LOC_DES":"DJERBA HOUMET SOUK",
+    "ANNEE_ADHESION2":2011,
+    "BUR_INT":"JERBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.50786197336288,36.4098156 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8050,
+    "LOC_DES":"HAMMAMET",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2181956500865,36.83690525 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1003,
+    "LOC_DES":"CITE EL KHADRA",
+    "ANNEE_ADHESION2":2013,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0,0.0 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2094,
+    "LOC_DES":"MENIHLA",
+    "ANNEE_ADHESION2":2017,
+    "BUR_INT":"ETTADHAMEN",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.337787214723926,36.7188 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2050,
+    "LOC_DES":"HAMMAM-LIF",
+    "ANNEE_ADHESION2":2016,
+    "BUR_INT":"HAMMAM-LIF",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2017,
+    "BUR_INT":"SFAX NORD",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.74052,34.7657 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3003,
+    "LOC_DES":"SFAX G C",
+    "ANNEE_ADHESION2":2017,
+    "BUR_INT":"GREMDA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2388419,36.8350921 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1053,
+    "LOC_DES":"LES BERGES DU LAC",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"LA MARSA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2016,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7573909,36.9545464 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":8110,
+    "LOC_DES":"TABARKA",
+    "ANNEE_ADHESION2":2016,
+    "BUR_INT":"JENDOUBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2986387518546,36.7476415 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2034,
+    "LOC_DES":"EZZAHRA",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"HAMMAM-LIF",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.526359847182345,34.881181 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":9100,
+    "LOC_DES":"SIDI BOUZID",
+    "ANNEE_ADHESION2":2016,
+    "BUR_INT":"SIDI BOUZID",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2813536,36.8445955 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2045,
+    "LOC_DES":"CITE M'HIRI",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.300647432025508,36.9001395 ]
+    },
+    "properties": {
+    "TYP_DES":"MINISTERE DE L'INTERIEUR",
+    "LOC_COD":2070,
+    "LOC_DES":"LA MARSA",
+    "ANNEE_ADHESION2":2017,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.304178373397331,32.8123428 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":4160,
+    "LOC_DES":"BEN GUERDANE",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"MEDENINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1863745,36.8170312 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1073,
+    "LOC_DES":"MONTPLAISIR",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.724938087611969,36.03576425 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":7100,
+    "LOC_DES":"LE KEF",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"LE KEF",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.88900008525265,36.80650045 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8080,
+    "LOC_DES":"MENZEL TEMIME",
+    "ANNEE_ADHESION2":2017,
+    "BUR_INT":"MENZEL TEMIME",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1695965,36.794479 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":1008,
+    "LOC_DES":"TUNIS BAB MENARA",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.3304513,36.88430560000001 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2025,
+    "LOC_DES":"SALAMBO",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"MINISTERE DE L'INTERIEUR",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2016,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1814915,36.7270373 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":9000,
+    "LOC_DES":"BEJà VILLE",
+    "ANNEE_ADHESION2":2016,
+    "BUR_INT":"BEJA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0,0.0 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2094,
+    "LOC_DES":"MENIHLA",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"ETTADHAMEN",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.6936219516129,34.767250000000004 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3042,
+    "LOC_DES":"EL AIN",
+    "ANNEE_ADHESION2":2016,
+    "BUR_INT":"SFAX NORD",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.190973,36.859939 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":2080,
+    "LOC_DES":"ARIANA MEDINA",
+    "ANNEE_ADHESION2":2016,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1695965,36.794479 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":1008,
+    "LOC_DES":"TUNIS BAB MENARA",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1695965,36.794479 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":1008,
+    "LOC_DES":"TUNIS BAB MENARA",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"TUNIS 4",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.75216,34.76875 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3041,
+    "LOC_DES":"MERKEZ CHIHIA",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"SAKIET EZZIT",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.712854,35.2966797 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":5160,
+    "LOC_DES":"EL JEM",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"EL JEM",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2181956500865,36.83690525 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1003,
+    "LOC_DES":"CITE EL KHADRA",
+    "ANNEE_ADHESION2":2016,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.15043,36.86184 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2037,
+    "LOC_DES":"EL MENZAH 7 - ENNASR II",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2007,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1780601,36.8287599 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1082,
+    "LOC_DES":"CITE MAHRAJENE",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"SFAX NORD",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"CENTRE MEDICO-SOCIAL DES COMMINICATIONS",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.462868141095194,36.59324535 ]
+    },
+    "properties": {
+    "TYP_DES":"CENTRE SPECIALISE",
+    "LOC_COD":8030,
+    "LOC_DES":"GROMBALIA",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"SOLIMAN",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1814915,36.7270373 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":9000,
+    "LOC_DES":"BEJà VILLE",
+    "ANNEE_ADHESION2":2016,
+    "BUR_INT":"BEJA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.294355505265166,36.8479991 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2015,
+    "LOC_DES":"LE KRAM",
+    "ANNEE_ADHESION2":2016,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.6031704,35.8544078 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL DE GROUPE",
+    "LOC_COD":4011,
+    "LOC_DES":"HAMMAM SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"HAMMAM SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.934309923752732,33.46624765 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4170,
+    "LOC_DES":"ZARZIS",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"ZARZIS",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.085763187193221,36.8115973 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2010,
+    "LOC_DES":"MANOUBA",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"MANOUBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.759262800000002,35.62393729999999 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL DE GROUPE",
+    "LOC_COD":5020,
+    "LOC_DES":"JEMMAL",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"JEMMAL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1780601,36.8287599 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1082,
+    "LOC_DES":"CITE MAHRAJENE",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"SAKIET EZZIT",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.836463499999997,35.16915170000001 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":1200,
+    "LOC_DES":"KASSERINE",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"KASSERINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.199071820738679,36.73075 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2074,
+    "LOC_DES":"EL MOUROUJ I",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"BEN AROUS",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.869881268365381,35.63801595 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":5070,
+    "LOC_DES":"KSAR HELLAL",
+    "ANNEE_ADHESION2":2017,
+    "BUR_INT":"KSAR HELAL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2017,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.188443252573775,36.79939965 ]
+    },
+    "properties": {
+    "TYP_DES":"SNCFT",
+    "LOC_COD":1001,
+    "LOC_DES":"TUNIS REPUBLIQUE",
+    "ANNEE_ADHESION2":2016,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.5490302,35.344489 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":5140,
+    "LOC_DES":"SOUASSI",
+    "ANNEE_ADHESION2":2017,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1858133,36.791088 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":1007,
+    "LOC_DES":"TUNIS JEBBARI",
+    "ANNEE_ADHESION2":2017,
+    "BUR_INT":" BARDO",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2388419,36.8350921 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1053,
+    "LOC_DES":"LES BERGES DU LAC",
+    "ANNEE_ADHESION2":2017,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2388419,36.8350921 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1053,
+    "LOC_DES":"LES BERGES DU LAC",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"CENTRE MEDICO-SOCIAL DES COMMINICATIONS",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2017,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1780601,36.8287599 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1082,
+    "LOC_DES":"CITE MAHRAJENE",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.294355505265166,36.8479991 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2015,
+    "LOC_DES":"LE KRAM",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.798839679614954,35.739872399999996 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":5000,
+    "LOC_DES":"MONASTIR",
+    "ANNEE_ADHESION2":2017,
+    "BUR_INT":"MONASTIR",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"STEG",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.67071969788044,36.4823676 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8000,
+    "LOC_DES":"NABEUL",
+    "ANNEE_ADHESION2":2017,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.67071969788044,36.4823676 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8000,
+    "LOC_DES":"NABEUL",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"NABEUL",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.63244308331918,35.83618285 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4000,
+    "LOC_DES":"SOUSSE MEDINA",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"SOUSSE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2016,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.224640937931033,36.757735 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2013,
+    "LOC_DES":"BEN AROUS EST",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"BEN AROUS",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.287470131305636,36.746335 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2073,
+    "LOC_DES":"BORJ LOUZIR",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.752646965460535,36.67797255 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8100,
+    "LOC_DES":"JENDOUBA",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"JENDOUBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"STEG",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.774133173387101,33.87473660000001 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":4115,
+    "LOC_DES":"DJERBA MELLITA",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"JERBA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"CENTRE MEDICO-SOCIAL DES COMMINICATIONS",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1695965,36.794479 ]
+    },
+    "properties": {
+    "TYP_DES":"APC",
+    "LOC_COD":1008,
+    "LOC_DES":"TUNIS BAB MENARA",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"TUNIS 4",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.190973,36.859939 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2080,
+    "LOC_DES":"ARIANA MEDINA",
+    "ANNEE_ADHESION2":2017,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.0971389,33.8833922 ]
+    },
+    "properties": {
+    "TYP_DES":"STEG",
+    "LOC_COD":6000,
+    "LOC_DES":"GABES VILLE",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2813536,36.8445955 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2045,
+    "LOC_DES":"CITE M'HIRI",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"KHEIREDDINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.836463499999997,35.16915170000001 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1200,
+    "LOC_DES":"KASSERINE",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"KASSERINE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.184794,36.800108 ]
+    },
+    "properties": {
+    "TYP_DES":"DOUANE",
+    "LOC_COD":1000,
+    "LOC_DES":"TUNIS RP (VILLE)",
+    "ANNEE_ADHESION2":2018,
+    "BUR_INT":"TUNIS 3",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.199071820738679,36.73075 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2074,
+    "LOC_DES":"EL MOUROUJ I",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"BEN AROUS",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7552176,34.740258700000005 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":3027,
+    "LOC_DES":"SFAX JADIDA",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"SFAX CENTRE",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.67071969788044,36.4823676 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":8000,
+    "LOC_DES":"NABEUL",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.738454859687216,34.9657458 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":2001,
+    "LOC_DES":"ENNASR",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"EL MENZAH",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1780601,36.8287599 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1082,
+    "LOC_DES":"CITE MAHRAJENE",
+    "ANNEE_ADHESION2":2014,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"M",
+    "SEC_DES":"Privé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.2181956500865,36.83690525 ]
+    },
+    "properties": {
+    "TYP_DES":"CABINET MEDICAL INDIVIDUEL",
+    "LOC_COD":1003,
+    "LOC_DES":"CITE EL KHADRA",
+    "ANNEE_ADHESION2":2015,
+    "BUR_INT":"ARIANA",
+    "MET_DES":"MEDECIN SPECIALISTE",
+    "SPE_DES":"CARDIOLOGIE",
+    "PROF_SEX":"F",
+    "SEC_DES":"Privé"
+    }
+  }
+]
+}
