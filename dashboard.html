@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	
+	<script src="https://api.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.css" rel="stylesheet" />
+<style>
+	body { margin: 0; padding: 0; }
+	#map { position: absolute; top: 0; bottom: 0; width: 100%; height: 100%;}
+	#mapaffiche { position: absolute; top: 0; bottom: 0; width: 100%;height: 800px; }
+</style>
+<script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.4.2/mapbox-gl-geocoder.min.js"></script>
+<link
+rel="stylesheet"
+href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.4.2/mapbox-gl-geocoder.css"
+type="text/css"
+/>
+	
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <link rel="icon" href="assets/images/favicon.png" sizes="32x32" type="image/png">
+    <title>C.N.A.M</title>
+
+    <link rel="stylesheet" href="assets/css/icons.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/plugins.min.css">
+    <link rel="stylesheet" href="assets/css/jqvmap.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    <!-- Color Scheme -->
+    <link rel="stylesheet" href="assets/css/colors/color.css" title="theme-color1">
+    <link rel="alternate stylesheet" href="assets/css/colors/color2.css" title="theme-color2">
+    <link rel="alternate stylesheet" href="assets/css/colors/color3.css" title="theme-color3">
+    <link rel="alternate stylesheet" href="assets/css/colors/color4.css" title="theme-color4">
+    <link rel="alternate stylesheet" href="assets/css/colors/color5.css" title="theme-color5">
+    <link rel="alternate stylesheet" href="assets/css/colors/color6.css" title="theme-color6">
+    <link rel="alternate stylesheet" href="assets/css/colors/color7.css" title="theme-color7">
+    <link rel="alternate stylesheet" href="assets/css/colors/color8.css" title="theme-color8">
+    <link rel="alternate stylesheet" href="assets/css/colors/color9.css" title="theme-color9">
+	<script src="jquery-1.4.2.min.js" type="text/javascript"></script>
+	<script src="jquery-ui-1.8.4.custom.min.js" type="text/javascript"></script>
+	<script src="jquery.form.js" type="text/javascript"></script>
+	<script src="index.js"></script>
+</head>
+<body class="gray-bg">
+
+    <main class="header-expand">
+        
+        <div class="topbar">
+            <div class="logo"><a href="dashboard.html" title="Logo"><img src="assets/images/logocnam.jpg" alt="logo.png"></a></div><!-- Logo -->
+            <span class="menu-btn"><i class="fa fa-align-right"></i></span>
+            <form class="topbar-search">
+                <input type="text" placeholder="Type and Hit Enter" value="taper votre recherche"">
+                <button type="submit"><i class="icon ion-android-search"></i></button>
+            </form><!-- Topbar Search -->
+            <ul class="topbar-lists">
+                <li>
+                    <div class="usr-inf-btns">
+                    <a class="usr-msg" href="#" title="">Log In</a>
+                    <a class="usr-log" href="#" title="">Log Out</a>
+                </div>
+                </li>
+                
+                <li>
+                    <a class="cnt-btn" href="#" title=""><i class="icon ion-android-contacts"></i></a>
+                    <div class="cnt-lst">
+                        <div class="usr">
+                            <img class="brd-rd50" src="assets/images/resources/acti-thmb1.jpg" alt="acti-thmb1.jpg">
+                            <div class="usr-innr">
+                                <h5><a href="#" title="">Smith Doe</a></h5>
+                                <span>Co Worker</span>
+                                <a href="#" title=""><i class="fa fa-envelope"></i></a>
+                            </div>
+                        </div>
+                        <div class="usr">
+                            <img class="brd-rd50" src="assets/images/resources/acti-thmb2.jpg" lt="acti-thmb2.jpg">
+                            <div class="usr-innr">
+                                <h5><a href="#" title="">Katti Smith</a></h5>
+                                <span>Graphic Designer</span>
+                                <a href="#" title=""><i class="fa fa-envelope"></i></a>
+                            </div>
+                        </div>
+                        <div class="usr">
+                            <img class="brd-rd50" src="assets/images/resources/acti-thmb3.jpg" alt="acti-thmb3.jpg">
+                            <div class="usr-innr">
+                                <h5><a href="#" title="">Willimes Domson</a></h5>
+                                <span>Family Adviser</span>
+                                <a href="#" title=""><i class="fa fa-envelope"></i></a>
+                            </div>
+                        </div>
+                        <div class="usr">
+                            <img class="brd-rd50" src="assets/images/resources/acti-thmb4.jpg" alt="acti-thmb4.jpg">
+                            <div class="usr-innr">
+                                <h5><a href="#" title="">Holli Doe</a></h5>
+                                <span>Company CEO</span>
+                                <a href="#" title=""><i class="fa fa-envelope"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <a class="noti-btn" href="#" title=""><i class="icon ion-ios-bell"></i><span>02</span></a>
+                    <div class="nti-drp-wrp">
+                        <h4 class="thm-bg"><span>You Have</span> 4 Notifications</h4>
+                        <div class="nti-lst">
+                            <div class="nti-usr">
+                                <span class="brd-rd50 thm-bg"><i class="fa fa-cog"></i></span>
+                                <div class="nti-usr-inr">
+                                    <h5><a href="#" title="">Sadi Orlaf</a></h5><span>Just Now</span>
+                                    <i>Privacy settings changed</i>
+                                </div>
+                            </div>
+                            <div class="nti-usr">
+                                <span class="brd-rd50 bg-info"><i class="icon ion-ios-person"></i></span>
+                                <div class="nti-usr-inr">
+                                    <h5><a href="#" title="">Katti Smith</a></h5><span>Just Now</span>
+                                    <i>Mike has added you as friend</i>
+                                </div>
+                            </div>
+                            <div class="nti-usr">
+                                <span class="brd-rd50 bg-warning"><i class="icon ion-thumbsup"></i></span>
+                                <div class="nti-usr-inr">
+                                    <h5><a href="#" title="">Willimes Domson</a></h5><span>Just Now</span>
+                                    <i>like your timeline photo</i>
+                                </div>
+                            </div>
+                            <div class="nti-usr">
+                                <span class="brd-rd50 bg-danger"><i class="icon ion-information-circled"></i></span>
+                                <div class="nti-usr-inr">
+                                    <h5><a href="#" title="">Holli Doe</a></h5><span>Just Now</span>
+                                    <i>Curabitur id eros limes suscipit blandit.</i>
+                                </div>
+                            </div>
+                        </div>
+                        <a href="#" title="">View All</a>
+                    </div>
+                </li>
+            </ul><!-- Topbar Lists -->
+        </div><!-- Topbar -->
+        <header class="dark-bg">
+            
+            <nav id="change">
+			
+			
+            </nav><!-- Nav -->
+        </header><!-- Header -->
+        <div class="content-wrap">
+            <div class="home-title">
+                <h1>Bienvenue <strong>A l'application d'aide dans la prise de décision<span>CNAM</span>.</strong></h1>
+                <p>Nouv vous aidons a y voir plus clair.</p>
+            </div>
+            <div class="content-inner remove-ext5">
+                <div class="row mrg20">
+                    <div class="col-md-4 col-sm-6 col-lg-4">
+                        <div class="wdgt-box fct-box grn-box">
+                            
+                            <div class="wdgt-ldr">
+                                <div class="ball-pulse">
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                </div>
+                            </div>
+                            <i class="fa fa-user-circle-o"></i>
+                            <div class="fct-inr">
+                                <h6><a href ="#" id="admin">CNAM</a></h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-lg-4">
+                        <div class="wdgt-box fct-box blu-box">
+                            
+                            <div class="wdgt-ldr">
+                                <div class="ball-pulse">
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                </div>
+                            </div>
+                            <i class="fa fa-user-circle-o"></i>
+                            <div class="fct-inr">
+                                <h6><a href ="#" id="prest">Préstataire</a></h6>
+                             
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-lg-4">
+                        <div class="wdgt-box fct-box ylw-box">
+                            
+                            <div class="wdgt-ldr">
+                                <div class="ball-pulse">
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                </div>
+                            </div>
+                            <i class="fa fa-user-circle-o"></i>
+                            <div class="fct-inr">
+                                <h6>Autre</h6>
+                               
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-8 col-sm-12 col-lg-8">
+                        <div class="wdgt-box vctr-mp">
+                            <div class="wdgt-titl">
+                                <h4>Cartoghraphie santé</h4>
+                                <p>nous vous aidons à y voir plus clair</p>
+								
+                            </div>
+                            <div class="wdgt-opt">
+                                <a class="refrsh-btn" href="#" title=""><i class="icon ion-ios-reload"></i></a>
+                                <a class="expnd-btn" href="#" title=""><i class="icon ion-arrow-expand"></i></a>
+                            </div>
+                            <div class="wdgt-ldr">
+                                <div class="ball-pulse">
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                </div>
+                            </div>
+							
+                            <div id="mapaffiche"></div>
+                            
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12 col-lg-4">
+                        <div class="wdgt-box td-lst-wrp">
+                            <div class="wdgt-opt">
+                                <a class="refrsh-btn" href="#" title=""><i class="icon ion-ios-reload"></i></a>
+                                <a class="expnd-btn" href="#" title=""><i class="icon ion-arrow-expand"></i></a>
+                            </div>
+                            <div class="wdgt-ldr">
+                                <div class="ball-pulse">
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                </div>
+                            </div>
+							<div id="selection">
+                            
+							</div>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="col-md-8 col-sm-12 col-lg-8">
+                        <div class="wdgt-box rvnu-chrt">
+                            <div class="wdgt-opt">
+                                <a class="refrsh-btn" href="#" title=""><i class="icon ion-ios-reload"></i></a>
+                                <a class="expnd-btn" href="#" title=""><i class="icon ion-arrow-expand"></i></a>
+                            </div>
+                            <div class="wdgt-ldr">
+                                <div class="ball-pulse">
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                </div>
+                            </div>
+                            <h4>Estimation de l'évolution des médecins au niveau de la région grand Tunis
+							</h4>
+                            <div id="chrt4" class="chrt"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!-- Contant Wrap -->
+        <footer>
+            <p>Copyright <a href="#" title="">Hackathon tunisie</a> &copy; 2020</p>
+            <ul class="btm-lnks">
+                <li><a href="#" title="">CNAM</a></li>
+                <li><a href="#" title="">Préstataire</a></li>
+                <li><a href="#" title="">Plus d'info</a></li>
+                <li><a href="#" title="">Nous contacter</a></li>
+            </ul>
+        </footer><!-- Footer -->
+    </main><!-- Main Wrapper -->
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/chart-core.js"></script>
+    <script src="assets/js/charts.js"></script>
+    <script src="assets/js/animated.js"></script>
+    <script src="assets/js/chart4.js"></script>
+    <script src="assets/js/plugins.min.js"></script>
+    <script src="assets/js/jquery.vmap.min.js"></script>
+    <script src="assets/js/custom-scripts.js"></script>
+</body>	
+</html>
